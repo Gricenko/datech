@@ -90,8 +90,23 @@ mvn spring-boot:run
 - `GET /api/payments/{id}`, `PUT /api/payments/{id}`, `DELETE /api/payments/{id}`
 - `GET /api/dashboard/alerts`
 
+## Jira / Confluence evidence for HR and project-process review
+
+Project management and process artifacts for this project are available here:
+
+https://drive.google.com/drive/folders/1tMS2l4sFHeHcSxmd6Go3cD8-cN2lq_l-?usp=sharing
+
+This folder includes:
+- Jira backlog screenshots and task breakdowns
+- workflow examples based on backlog structure and task rules
+- Confluence documentation export in PDF format
+- supporting project-management evidence demonstrating planning, task tracking, and documentation discipline
+
+This is included to demonstrate practical experience with agile project workflows, backlog management, task ownership, and documentation practices in a real delivery environment.
+
 ## Notes
 
 - This is an MVP focused on business workflows and practical domain modeling.
 - Authentication and authorization are not implemented yet.
 - The project is designed as a solid base for future enhancement, including deployment automation and production hardening.
+- Project management process artifacts are kept in a separate evidence folder for review, while the technical implementation remains in this repository.
